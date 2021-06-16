@@ -201,7 +201,7 @@ fun main() {
     fun storieline6() {
         println("I'm gonna prepare myself to collect some weapons")
         println("Here is a room full of weapons")
-        println("You pick a Grenade gun, AKM and DiamondArmor ")
+        println("You pick a Grenade gun, AKM and DiamondArmor to protect yourself")
         println("Press '1' to continue\n")
     }
 
@@ -212,8 +212,8 @@ fun main() {
 
 
     fun choice8() {
-
-        println("I decided to go alone maybe i can find something important in this way\n")
+        println("The place was really terrifying\n")
+        println("I could only hear the voice of zombies, It was an indescribable strange feeling\n")
         println("Press '1' to continue\n")
 
         //return Storieline10()
@@ -221,16 +221,17 @@ fun main() {
 
     fun choice8_1() {
 
-        println("I decided to go wth the group to be with other people\n")
-        println("Because together we will be stronger\n")
+        println("I found three new rooms, we tried to walk slowly that no enemy could hear us\n")
+        println("we didn't leave until we were sure there was no one there\n")
         println("Press '1' to continue\n")
 
         //return Storyline10()
     }
 
     fun storieline11() {
-        println("It was terrefiying when i went alone but i had to do it to make sure other places were safe as well\n")
+        println("It was terrefiying when i was alone but I have killed alot of them\n")
         println("i really found other enemies and i had to eliminate them\n")
+        println("Nothing will stop from achieving my goal and saving the world\n")
         println("Press '2' to continue\n")
     }
 
@@ -250,7 +251,7 @@ fun main() {
     }
 
     fun choiceReturn() {
-        println("I met my group and we will continue together\n")
+        println("I met alo of zombies and I tried to hide and fight them\n")
         println("press 1 to go out, 2 to stay inside\n ")
 //        return Storyline11
     }
@@ -258,6 +259,14 @@ fun main() {
     fun choiceOut() {
         println("You are in the sixth level\n")
     }
+
+    fun choiceInside() {
+        println("I have to be sure that there is no more zombies and fight the rest of the enemies\n")
+        println("Astonout took 40 pointsog damage and has 2 hitpoints")
+        println("Astronout has lost a life.")
+        println("press 1 to continue\n")
+    }
+    
 
     fun choiceInside() {
         println("I have to be sure that there is no more zombies and fight the rest of the enemies\n")
