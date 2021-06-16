@@ -201,11 +201,12 @@ fun main() {
     fun storieline6() {
         println("I'm gonna prepare myself to collect some weapons")
         println("Here is a room full of weapons")
+        println("You pick a Grenade gun, AKM and DiamondArmor ")
         println("Press '1' to continue\n")
     }
 
     fun storieline10() {
-        println("i have to decide to go alone or go with a group")
+        println("i had to decide to go alone or go with a group")
         println("Press 1.Alone or 2.Group \n")
     }
 
