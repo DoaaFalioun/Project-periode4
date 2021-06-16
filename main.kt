@@ -241,6 +241,7 @@ fun main() {
 
     fun choiceRight() {
         println("I am still fighting a lone and there is no one just me\n")
+        println("press 1 to go out, 2 to stay inside\n ")
     }
 
     fun choiceLeft() {
